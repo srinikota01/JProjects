@@ -5,8 +5,8 @@
 <form action="student.htm" method="post">
 <table> 
 <tr>
-<th>student email id</th>
-<td><input type="email" name="emailid" required/></td>
+<th>student email</th>
+<td><input type="email" name="email" required/></td>
 </tr>
 <tr>
 <th>student password</th>
